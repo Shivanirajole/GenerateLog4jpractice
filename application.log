@@ -1,0 +1,9 @@
+2025-02-25 10:46:47,946  INFO [main] Logintest:34 - maximum window
+2025-02-25 10:46:47,953  WARN [main] Logintest:38 - wait sometime
+2025-02-25 10:46:48,101  INFO [main] Logintest:45 - click on login button
+2025-02-25 10:55:34,809  INFO [main] Logintest:34 - maximum window
+2025-02-25 10:55:34,818  WARN [main] Logintest:38 - wait sometime
+2025-02-25 10:55:34,822 DEBUG [main] Logintest:39 - debug msg
+2025-02-25 10:55:34,823 FATAL [main] Logintest:40 - fatal msg
+2025-02-25 10:55:34,828  INFO [main] Logintest:46 - ********************* Stating Test cases **************
+2025-02-25 10:55:34,993  INFO [main] Logintest:49 - click on login button
